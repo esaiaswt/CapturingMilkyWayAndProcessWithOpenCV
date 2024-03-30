@@ -12,5 +12,7 @@ This code has 2 parts:
 * Part 2: Batch to Improve Low Lighting Photos
 * Part 1: Understanding Codes using Learn OpenCV Tutorial
 
+Code best run in Google's [Colab](https://colab.research.google.com/).
+
 References:
 1. Tutorial by By Vardan Agarwal and Lipi Patnaik: https://learnopencv.com/improving-illumination-in-night-time-images/
